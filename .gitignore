@@ -1,0 +1,23 @@
+# Virtual Environment
+/venv/
+/_staging_temp/
+
+# IDE configuration files
+/.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated inventory file
+ebooks/inventory.csv
+known_authors.txt
+
+# Log files
+process.log
+config.ini
